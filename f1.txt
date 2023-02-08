@@ -1,2 +1,6 @@
 this is file1
+<<<<<<< HEAD
 file1
+=======
+file_1
+>>>>>>> a82da0351f5c0dcc45e5814e68a0c9ba2e977f07
