@@ -1,2 +1,2 @@
 this is file2.
-file_2
+file2
