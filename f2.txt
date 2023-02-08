@@ -1,2 +1,2 @@
 this is file2.
-2_file
+file_2
