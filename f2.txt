@@ -1,6 +1,1 @@
 this is file2.
-<<<<<<< HEAD
-file2
-=======
-file_2
->>>>>>> a82da0351f5c0dcc45e5814e68a0c9ba2e977f07
